@@ -23,7 +23,7 @@ public class Handphone extends Perangkat{
 
 
     public void telfon(int no_hp){
-        System.out.println("Handphoen berhasil menyambung telfon ke No " + no_hp);
+        System.out.println("Handphone berhasil menyambung telfon ke No " + no_hp);
     }
 
     public void kirimSMS(int no_hp){
